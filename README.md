@@ -1,6 +1,6 @@
-# NLP Sentiment analysis
+# NLP project : Scrapying a website using scrapy
 
-To extract news titles and paragraph texts from https://www.deutschland.de/en/news/coronavirus-in-germany-informations
-To store news in a file 
+1. extract news titles and paragraph texts from https://www.deutschland.de/en/news/coronavirus-in-germany-informations
+2. store news in a file 
 
 
